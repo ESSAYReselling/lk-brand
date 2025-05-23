@@ -1,15 +1,15 @@
-/
+# Laravel & Node
 /node_modules/
-/.env
+.env
 /public/storage
 /storage/*.key
 /storage/framework/cache/data/
 /storage/logs/
 /storage/debugbar/
-/*.log
-/.idea/
-/*.zip
-/.vscode/
-/composer.lock
+*.log
+.idea/
+*.zip
+.vscode/
+composer.lock
 npm-debug.log
 yarn-error.log
